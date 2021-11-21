@@ -1,7 +1,7 @@
 # **Hey, I'm Pere** 👋
 
 ## **Socials 🤳**
-- 💼 <a href="www.linkedin.com/in/pere-wells">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/pere-wells/">LinkedIn</a>
 - 📁 <a href="https://c1m50c.github.io/portfolio/">Portfolio</a>
 - 🥞 <a href="https://stackoverflow.com/users/17452730/c1m50c">StackOverflow</a>
 - 💻 <a href="https://www.hackerrank.com/c1m50c">HackerRank</a>
