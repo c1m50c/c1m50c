@@ -1,5 +1,8 @@
 # **Hey, I'm Pere** 👋
 
+![GitHub User's stars](https://img.shields.io/github/stars/c1m50c?color=yellow&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/c1m50c?style=for-the-badge)
+
 ## **Socials 🤳**
 - 💼 <a href="https://www.linkedin.com/in/pere-wells/">LinkedIn</a>
 - 📁 <a href="https://c1m50c.github.io/portfolio/">Portfolio</a>
