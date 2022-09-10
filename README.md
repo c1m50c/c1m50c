@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/panda.gif" width="400" height="500" alt="Panda Cutie 😍">
 
-I do things well sometimes, I am consistently good at putting animal GIFs in documentation&nbsp;to boost user-engagement though.
+I do things well sometimes, but I am consistently good at putting animal GIFs in documentation&nbsp;to boost user-engagement though.
 
 Self-identifies with infinite monkey theorum.[^1]
 
