@@ -1,8 +1,8 @@
-<img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/panda.gif" width="400" height="500">
+<img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/panda.gif" width="400" height="500" alt="Panda Cutie 😍">
 
-Yo, I do things sometimes well sometimes not so well
+I do things well sometimes, I am consistently good at putting animal GIFs in documentation&nbsp;to boost user-engagement though.
 
-## **Socials 🤳**
+# **Socials 🤳**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pere-wells/)
 - 📁 [Portfolio](https://c1m50c.github.io/portfolio)
