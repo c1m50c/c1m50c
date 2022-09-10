@@ -1,21 +1,12 @@
-# **Hey, I'm Pere** 👋
+<img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/panda.gif" width="400" height="500">
 
-![GitHub User's stars](https://img.shields.io/github/stars/c1m50c?color=yellow&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/c1m50c?style=for-the-badge)
+Yo, I do things sometimes well sometimes not so well
 
 ## **Socials 🤳**
-- 💼 <a href="https://www.linkedin.com/in/pere-wells/">LinkedIn</a>
-- 📁 <a href="https://c1m50c.github.io/portfolio/">Portfolio</a>
-- 🥞 <a href="https://stackoverflow.com/users/17452730/c1m50c">StackOverflow</a>
-- 💻 <a href="https://www.hackerrank.com/c1m50c">HackerRank</a>
-- 📱 <a href="https://leetcode.com/c1m50c/">LeetCode</a>
-- 🐤 <a href="https://twitter.com/c1m50c">Twitter</a>
-- 🎶 <a href="https://open.spotify.com/user/cimsoc?si=b515e89e35bd4bed">Spotify</a>
 
-## **Coziest Langauges 💤**
-- 🐍 <a href="https://www.python.org/">Python</a>
-- 🦀 <a href="https://www.rust-lang.org/">Rust</a>
-- 📰 <a href="https://www.typescriptlang.org/">TypeScript</a>
-
-## **Top Skills 🔥**
-- 🔎 <a href="https://www.google.com/">Googling</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/pere-wells/)
+- 📁 [Portfolio](https://c1m50c.github.io/portfolio)
+- 🥞 [StackOverflow](https://stackoverflow.com/users/17452730/c1m50c)
+- 🐤 [Twitter](https://twitter.com/c1m50c)
+- 🎶 [Spotify](https://open.spotify.com/user/cimsoc?si=b515e89e35bd4bed)
+    - 📌 [_The Primary_ Playlist](https://open.spotify.com/playlist/3k67qmXwh5OTP18e8BdtPI?si=bce6c430c8b64d14)
