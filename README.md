@@ -13,4 +13,4 @@ Self-identifies with infinite monkey theorum.[^1]
 - 🎶 [Spotify](https://open.spotify.com/user/cimsoc?si=b515e89e35bd4bed)
     - 📌 [_The Primary_ Playlist](https://open.spotify.com/playlist/3k67qmXwh5OTP18e8BdtPI?si=bce6c430c8b64d14)
 
-[^1]: Eventually I will type out a working solution, https://en.wikipedia.org/wiki/Infinite_monkey_theorem
+[^1]: Eventually I will type out a solution without typos, https://en.wikipedia.org/wiki/Infinite_monkey_theorem
