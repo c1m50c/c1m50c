@@ -1,8 +1,7 @@
-<!-- <img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/panda.gif" width="400" height="500" alt="Panda Cutie 😍"> -->
+<img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/panda.gif" width="400" height="500" alt="Panda Cutie 😍">
+<!-- <img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/me.gif" width="80" height="60"> -->
 
 I do things well sometimes, I am consistently good at putting animal GIFs in documentation&nbsp;to boost user-retention though.
-
-<img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/me.gif">
 
 Self-identifies with infinite monkey theorum.[^1]
 
@@ -18,4 +17,5 @@ Self-identifies with infinite monkey theorum.[^1]
     - 📌 [_The Primary_ Playlist](https://open.spotify.com/playlist/3k67qmXwh5OTP18e8BdtPI?si=bce6c430c8b64d14)
 
 [^1]: Eventually I will type out a solution without typos, https://en.wikipedia.org/wiki/Infinite_monkey_theorem
+
 [^2]: Especially [these ones](https://en.wikipedia.org/wiki/Qinling_panda) :)
