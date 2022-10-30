@@ -2,9 +2,9 @@
 
 I do things well sometimes, I am consistently good at putting animal GIFs in documentation&nbsp;to boost user-retention though.
 
-Self-identifies with infinite monkey theorum.[^1]
-
 <img align="right" src="https://raw.githubusercontent.com/c1m50c/c1m50c/main/me.gif">
+
+Self-identifies with infinite monkey theorum.[^1]
 
 我爱熊猫💖[^2]
 
