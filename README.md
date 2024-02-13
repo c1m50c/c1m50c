@@ -10,7 +10,7 @@ Self-identifies with infinite monkey theorum.[^1]
 # **Socials 🤳**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pere-wells/)
-- 📁 [Portfolio](https://c1m50c.github.io/portfolio)
+- 📁 [Portfolio](https://portfolio.peresonal.com)
 - 🥞 [StackOverflow](https://stackoverflow.com/users/17452730/c1m50c)
 - 🐤 [Twitter](https://twitter.com/c1m50c)
 - 🎶 [Spotify](https://open.spotify.com/user/cimsoc?si=b515e89e35bd4bed)
